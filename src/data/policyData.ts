@@ -1,13 +1,13 @@
 import { GameConfig } from "../types/policy";
 
 export const defaultGameConfig: GameConfig = {
-  gameName: "Shadow Realms: Battle Quest",
-  developerName: "Indie Game Studio",
-  contactEmail: "privacy@indiegamestudio.com",
+  gameName: "Army Corps TD",
+  developerName: "Army Corps Studio",
+  contactEmail: "pntruong17@gmail.com",
   effectiveDate: "2025-01-01",
-  lastUpdated: "2026-03-15",
-  websiteUrl: "https://pntruong17.github.io/game-privacy",
-  appCategory: "Mobile Game / Hành Động & Nhập Vai",
+  lastUpdated: "2026-10-11",
+  websiteUrl: "https://pntruong17.github.io/armycorpstdpage",
+  appCategory: "Mobile Game / Chiến Thuật & Thủ Thành",
   targetAudience: "teens_adults",
   sdks: [
     {
